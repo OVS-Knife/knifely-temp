@@ -1,17 +1,22 @@
 ---
 templateKey: index-page
-title: Connecting People with Nature
-image: /img/chuttersnap-ifmqouokaoa-unsplash.jpg
-heading: Connecting People with Nature*
-subheading: "*A Gatsby v3 starter template set up with Netlify CMS and Tailwind CSS."
+title: Knifely - Professional Knife Sharpening
+image: /img/hero-image.png
+heading: Professional Knife Sharpening
+subheading: Looking for a reliable and professional residential knife sharpening
+  service in Akron? Look no further than Knifely!
 about:
-  heading: Who we are
-  description: "Our team of architects, gardeners and enginners is working with
-    clients all over the world to transform urban spaces with the best nature
-    provides."
+  heading: Welcome to Knifely
+  description: Nobody likes cutting with a dull knife. Not only does it not get
+    the job done the way you want it to, but it can also be dangerous. While
+    there are methods to help you sharpen your knives at home, nothing beats
+    having your knives sharpened by a professional. At Knifely, we can provide
+    you with the knife-sharpening services you need! We offer a quick and easy
+    four-step process that allows you to turn your dull kitchen knives into
+    slicing and dicing machines. Give us a call to get started today!
   image:
-    image: /img/leon-tho1_oukbg0-unsplash.jpg
-    alt: people working in agency
+    image: /img/knife-sharpening.jpg
+    alt: Knife Sharpening
   button:
     url: /about
     label: Find out more

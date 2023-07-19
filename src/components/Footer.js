@@ -20,14 +20,12 @@ const Footer = () => {
                   placeholder="blurred"
                 />
                 <div className="text-xl font-bold tracking-wide">
-                  <span className="text-gray-800 font-semibold">Urban</span>
-                  <span className="text-green-700">Garden</span>
+                  <span className="text-gray-800 font-semibold">Knifely</span>
                 </div>
               </Link>
 
               <p className="max-w-md mt-2 text-gray-600 dark:text-gray-400">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Reiciendis, nisi! Id.
+                Nobody likes cutting with a dull knife. 
               </p>
             </div>
           </div>
@@ -117,10 +115,10 @@ const Footer = () => {
                   Contact
                 </h3>
                 <span className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">
-                  +1 526 654 8965
+                  (330) 617-5125
                 </span>
                 <span className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">
-                  example@email.com
+                  info@ovsknife.com
                 </span>
               </div>
             </div>
@@ -131,7 +129,7 @@ const Footer = () => {
 
         <div>
           <p className="text-center text-gray-800 dark:text-white">
-            © Brand 2020 - All rights reserved
+            © Knifely 2023 - All rights reserved
           </p>
         </div>
       </div>

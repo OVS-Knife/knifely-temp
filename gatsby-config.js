@@ -3,9 +3,9 @@ const siteUrl =
 
 module.exports = {
   siteMetadata: {
-    title: "UrbanGarden",
+    title: "Knifely",
     description:
-      "Transforming and enriching our urban environments with green living spaces",
+      "Looking for a reliable and professional residential knife sharpening service in Akron? Look no further than Knifely!",
     siteUrl: "https://objective-thompson-fe2703.netlify.app",
   },
   plugins: [

@@ -10,14 +10,14 @@ contactform:
   image: /img/copernico-p_kicqcom4s-unsplash-1-.jpg
 office:
   tagline: Our Office
-  location: London Spitalfield
+  location: Akron Ohio
   address: |-
-    UrbanGarden\
-    143 Fake Street\
-    London
+    Knifely\
+    981 Home Ave.\
+    Akron
   phone: |-
-    Email: fake@urbangarden.com\
-    Phone: 01234 567 891\
-    Monday to Friday 9-6pm GMT.
+    Email: info@ovsknife.com\
+    Phone: (330) 617-5125\
+    Monday to Friday 8-3:30pm EST.
   image: /img/klaudia-piaskowska-g3lrnieizq4-unsplash.jpg
 ---
