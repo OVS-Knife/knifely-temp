@@ -19,5 +19,5 @@ office:
     Email: info@ovsknife.com\
     Phone: (330) 617-5125\
     Monday to Friday 8-3:30pm EST.
-  image: /img/klaudia-piaskowska-g3lrnieizq4-unsplash.jpg
+  image: /img/lance-anderson-vwwzooyfchc-unsplash.jpg
 ---
