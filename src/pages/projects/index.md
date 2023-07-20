@@ -1,6 +1,6 @@
 ---
 templateKey: projects-page
-title: Faq
-heading: FAQ
-subheading: Answers to Frequently Asked Question
+title: Blog
+heading: Knifely Blog
+subheading: Find more information on Knifely below
 ---
