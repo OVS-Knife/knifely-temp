@@ -36,7 +36,7 @@ const IndexPageTemplate = ({
                 <p className="mt-2 text-blue-100 sm:mt-4 lg:mt-6 lg:text-xl">
                   {subheading}
                 </p>
-                <PrimaryButton to="/contact" className="mt-6 lg:mt-10">
+                <PrimaryButton to="/contact" className="mt-6 lg:mt-10 text-blue-100">
                   Contact us
                 </PrimaryButton>
               </div>
