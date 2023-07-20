@@ -45,19 +45,19 @@ const Footer = () => {
                   Blog
                 </h3>
                 <Link
-                  to="/"
+                  to="/projects/2021-07-27-rooftop-gardens-with-view-of-syndey-skyline-1/"
                   className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
                 >
                   How it works
                 </Link>
                 <Link
-                  to="/"
+                  to="/projects/2021-07-27-new-entry-and-lobby-of-palace-district-hotel/"
                   className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
                 >
                   Benefits
                 </Link>
                 <Link
-                  to="/"
+                  to="/projects/2021-07-27-new-entry-and-lobby-of-palace-district-hotel-1/"
                   className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
                 >
                   Longevity
