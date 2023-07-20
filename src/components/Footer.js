@@ -21,6 +21,8 @@ const Footer = () => {
                 />
               </Link>
 
+              <p className="max-w-md mt-2 text-gray-600 dark:text-gray-400"> Nobody likes cutting with a dull knife. 
+              </p>
             </div>
           </div>
 
@@ -36,18 +38,6 @@ const Footer = () => {
                 >
                   Company
                 </Link>
-                <Link
-                  to="/"
-                  className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
-                >
-                  Community
-                </Link>
-                <Link
-                  to="/"
-                  className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
-                >
-                  Careers
-                </Link>
               </div>
 
               <div>
@@ -58,19 +48,19 @@ const Footer = () => {
                   to="/"
                   className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
                 >
-                  Tec
+                  How it works
                 </Link>
                 <Link
                   to="/"
                   className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
                 >
-                  Music
+                  Benefits
                 </Link>
                 <Link
                   to="/"
                   className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
                 >
-                  Videos
+                  Longevity
                 </Link>
               </div>
 
@@ -84,7 +74,7 @@ const Footer = () => {
                   rel="noreferrer"
                   target="_blank"
                 >
-                  Gatsby
+                  Pricing
                 </a>
                 <a
                   href="https://www.netlifycms.org/"
@@ -92,15 +82,7 @@ const Footer = () => {
                   rel="noreferrer"
                   target="_blank"
                 >
-                  Netlify CMS
-                </a>
-                <a
-                  href="https://tailwindcss.com/"
-                  className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
-                  rel="noreferrer"
-                  target="_blank"
-                >
-                  Tailwind CSS
+                  Packages
                 </a>
               </div>
 
