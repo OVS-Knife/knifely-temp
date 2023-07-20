@@ -69,18 +69,14 @@ const Footer = () => {
                   Products
                 </h3>
                 <a
-                  href="https://www.gatsbyjs.com/"
+                  href="/"
                   className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
-                  rel="noreferrer"
-                  target="_blank"
                 >
                   Pricing
                 </a>
                 <a
-                  href="https://www.netlifycms.org/"
+                  href="/"
                   className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
-                  rel="noreferrer"
-                  target="_blank"
                 >
                   Packages
                 </a>
