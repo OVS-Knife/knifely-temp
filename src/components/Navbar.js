@@ -55,17 +55,14 @@ const Navbar = ({ className }) => {
             <StaticImage
               src="../img/urbangarden-icon.png"
               alt="Knifely icon"
-              className="w-8 h-8 sm:w-10 sm:h-10"
+              className="w-300 h-100 sm:w-15 sm:h-15"
               layout="constrained"
-              width={40}
-              height={40}
+              width={300}
+              height={70}
               loading="eager"
               backgroundColor="transparent"
               placeholder="blurred"
             />
-            <div className="text-xl font-bold tracking-wide lg:text-2xl">
-              <span className="text-gray-800 font-semibold">Knifey</span>
-            </div>
           </Link>
 
           {/* Mobile menu button */}

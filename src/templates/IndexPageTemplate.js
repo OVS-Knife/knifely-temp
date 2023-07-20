@@ -56,7 +56,7 @@ const IndexPageTemplate = ({
       {/* Featured projects */}
       <Container>
         <div className="flex justify-between items-baseline">
-          <SectionHeading>Learn more about our knife sharpening process</SectionHeading>
+          <SectionHeading>Check out our Knife Sharpening Blog</SectionHeading>
           <Link className="text-blue-600 underline hover:text-blue-800" to="/projects">
             View all
           </Link>

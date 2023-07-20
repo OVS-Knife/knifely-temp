@@ -12,21 +12,15 @@ const Footer = () => {
               <Link className="flex items-center gap-1" to="/">
                 <StaticImage
                   src="../img/urbangarden-icon.png"
-                  alt="UrbanGarden icon"
+                  alt="Knifely Logo"
                   layout="fixed"
-                  width={40}
-                  height={40}
+                  width={300}
+                  height={70}
                   backgroundColor="transparent"
                   placeholder="blurred"
                 />
-                <div className="text-xl font-bold tracking-wide">
-                  <span className="text-gray-800 font-semibold">Knifely</span>
-                </div>
               </Link>
 
-              <p className="max-w-md mt-2 text-gray-600 dark:text-gray-400">
-                Nobody likes cutting with a dull knife. 
-              </p>
             </div>
           </div>
 
