@@ -20,13 +20,13 @@ Knifely are more than just knife sharpening services. We are champions of sustai
 
 For Knifely, we dream of a world where every kitchen in every home resonates with the joy of sharp knives. We envision mail-in residential knife sharpening services that ensure the strongest, longest-lasting cutting edges, making food preparation not just a chore but a pleasure.
 
-
-
 ![dreamstime_xxl_4369497](http://xb1.342.myftpupload.com/wp-content/uploads/2022/04/dreamstime_xxl_4369497-scaled.jpg)
 
 ## **Why We Matter**
 
 In today's fast-paced world, people seek more than just monetary satisfaction. They long to be part of a cause, something larger than themselves. At Knifely, we provide exactly that. Our commitment to sustainability, combined with our dream of fostering a company culture that is kind, generous, and nurturing, resonates deeply with individuals looking for a deeper purpose. Our vision is not just about business growth, but about building a 'cathedral' - a lasting legacy that every team member contributes to with pride and passion.
+
+![](https://xb1.342.myftpupload.com/wp-content/uploads/2022/04/dreamstime_xxl_44444285-1024x683.jpg)
 
 ## **Our Future**
 
