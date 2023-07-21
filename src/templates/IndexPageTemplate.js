@@ -1,4 +1,4 @@
-import React from "react"
+import React, { useState, useEffect } from 'react';
 import { Link } from "gatsby"
 import { SectionHeading, TextImageSplit } from "../components/Sections"
 import { PrimaryButton, SecondaryButton } from "../components/Buttons"
@@ -8,10 +8,31 @@ import Image from "../components/Image"
 const IndexPageTemplate = ({
   heading,
   subheading,
-  image,
+  image,  // This is the desktop image.
   posts = [],
   about,
 }) => {
+  const [currentImage, setCurrentImage] = useState(image);
+  
+  useEffect(() => {
+    const updateImage = () => {
+      if (window.innerWidth <= 768) {  // This is a common breakpoint for tablets/mobiles.
+        setCurrentImage('/img/hero-image-mobile.png');
+      } else {
+        setCurrentImage(image);
+      }
+    };
+
+    // Set the image on initial load
+    updateImage();
+    
+    // Add the event listener for window resize
+    window.addEventListener('resize', updateImage);
+
+    // Cleanup the event listener on component unmount
+    return () => window.removeEventListener('resize', updateImage);
+  }, [image]);
+
   return (
     <div>
       {/* Header */}
@@ -47,11 +68,12 @@ const IndexPageTemplate = ({
         <div className="lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2">
           <Image
             className="h-48 w-full object-cover sm:h-64 md:h-80 lg:w-full lg:h-full"
-            image={image}
+            image={currentImage}
             alt=""
           />
         </div>
       </div>
+
 
       {/* Featured projects */}
       <Container>
