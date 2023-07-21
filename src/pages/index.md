@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Knifely - Professional Knife Sharpening
+title: Knifely - Professional Knife Sharpening Akron Ohio
 image: /img/hero-image.png
 heading: Professional Knife Sharpening
 subheading: Looking for a reliable and professional residential knife sharpening

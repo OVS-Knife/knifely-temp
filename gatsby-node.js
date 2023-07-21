@@ -105,4 +105,3 @@ exports.createSchemaCustomization = ({ actions }) => {
   `
   createTypes(typeDefs)
 }
-

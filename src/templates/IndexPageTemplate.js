@@ -4,6 +4,8 @@ import { SectionHeading, TextImageSplit } from "../components/Sections"
 import { PrimaryButton, SecondaryButton } from "../components/Buttons"
 import { Container, CardSet } from "../components/Sections"
 import Image from "../components/Image"
+import mobile from "../../public/img/hero-image-mobile.png"
+import debounce from 'lodash/debounce';
 
 const IndexPageTemplate = ({
   heading,
@@ -15,13 +17,13 @@ const IndexPageTemplate = ({
   const [currentImage, setCurrentImage] = useState(image);
   
   useEffect(() => {
-    const updateImage = () => {
-      if (window.innerWidth <= 768) {  // This is a common breakpoint for tablets/mobiles.
-        setCurrentImage('/img/hero-image-mobile.png');
+    const updateImage = debounce(() => {  // Debouncing the function
+      if (window.innerWidth <= 942) {  // This is a common breakpoint for tablets/mobiles.
+        setCurrentImage(mobile);
       } else {
         setCurrentImage(image);
       }
-    };
+    }, 200);  // 200ms delay for debouncing
 
     // Set the image on initial load
     updateImage();
@@ -31,7 +33,7 @@ const IndexPageTemplate = ({
 
     // Cleanup the event listener on component unmount
     return () => window.removeEventListener('resize', updateImage);
-  }, [image]);
+  }, [image, mobile]); 
 
   return (
     <div>
@@ -69,7 +71,7 @@ const IndexPageTemplate = ({
           <Image
             className="h-48 w-full object-cover sm:h-64 md:h-80 lg:w-full lg:h-full"
             image={currentImage}
-            alt=""
+            alt="Knife Sharpening"
           />
         </div>
       </div>

@@ -1,12 +1,12 @@
 const siteUrl =
-  process.env.URL || `https://objective-thompson-fe2703.netlify.app`
+  process.env.URL || `https://www.knifely.com/`
 
 module.exports = {
   siteMetadata: {
     title: "Knifely",
     description:
       "Looking for a reliable and professional residential knife sharpening service in Akron? Look no further than Knifely!",
-    siteUrl: "https://objective-thompson-fe2703.netlify.app",
+    siteUrl: "https://www.knifely.com/",
   },
   plugins: [
     {
