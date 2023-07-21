@@ -15,30 +15,39 @@ const IndexPageTemplate = ({
   about,
 }) => {
   const [currentImage, setCurrentImage] = useState(image);
+  const [isSmallScreen, setIsSmallScreen] = useState(false);
   
   useEffect(() => {
-    const updateImage = debounce(() => {  // Debouncing the function
-      if (window.innerWidth <= 942) {  // This is a common breakpoint for tablets/mobiles.
+    const updateImageAndScreenSize = debounce(() => {  
+      // Update the image
+      if (window.innerWidth <= 942) {  
         setCurrentImage(mobile);
       } else {
         setCurrentImage(image);
       }
-    }, 200);  // 200ms delay for debouncing
+      
+      // Check for screen size
+      if (window.innerWidth <= 762) {
+        setIsSmallScreen(true);
+      } else {
+        setIsSmallScreen(false);
+      }
+    }, 200);  
 
-    // Set the image on initial load
-    updateImage();
+    updateImageAndScreenSize();
     
-    // Add the event listener for window resize
-    window.addEventListener('resize', updateImage);
+    window.addEventListener('resize', updateImageAndScreenSize);
 
-    // Cleanup the event listener on component unmount
-    return () => window.removeEventListener('resize', updateImage);
-  }, [image, mobile]); 
+    return () => window.removeEventListener('resize', updateImageAndScreenSize);
+  }, [image, mobile]);
+
+  // Conditional styling
+  const heroPaddingTop = isSmallScreen ? "pt-32" : "pt-16";
 
   return (
     <div>
       {/* Header */}
-      <div className="relative bg-blue-600 overflow-hidden">
+      <div className={`relative bg-blue-600 overflow-hidden ${heroPaddingTop} pb-8 ...`}>
         <div className="max-w-7xl mx-auto">
           <div className="relative z-10 pt-16 pb-8 bg-blue-600 sm:pt-20 sm:pb-10 md:pt-24 md:pb-12 lg:w-1/2 lg:pt-44 lg:pb-24 xl:pt-48 xl:pb-32">
             <svg
