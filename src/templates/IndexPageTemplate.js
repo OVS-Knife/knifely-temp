@@ -42,7 +42,7 @@ const IndexPageTemplate = ({
   }, [image, mobile]);
 
   // Conditional styling
-  const heroPaddingTop = isSmallScreen ? "pt-32" : "pt-16";
+  const heroPaddingTop = isSmallScreen ? "pt-26" : "pt-16";
 
   return (
     <div>
