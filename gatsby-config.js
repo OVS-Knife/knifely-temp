@@ -72,13 +72,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `UrbanGarden`,
-        short_name: `UrbanGarden`,
+        name: `Knifely`,
+        short_name: `Knifely`,
         start_url: `/`,
-        background_color: `#ffffff`,
-        theme_color: `#047857`,
+        background_color: `#0084C7`,
+        theme_color: `#1980B5`,
         display: `standalone`,
-        icon: `src/img/urbangarden-icon.png`,
+        icon: `src/img/favicon.png`,
       },
     },
     "gatsby-transformer-remark-frontmatter",
