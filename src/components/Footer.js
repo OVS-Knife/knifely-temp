@@ -97,7 +97,7 @@ const Footer = () => {
                   (330) 617-5125
                 </span>
                 <span className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">
-                  info@ovsknife.com
+                  info@knifely.com
                 </span>
               </div>
             </div>
