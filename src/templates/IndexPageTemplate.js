@@ -4,7 +4,7 @@ import { SectionHeading, TextImageSplit } from "../components/Sections"
 import { PrimaryButton, SecondaryButton } from "../components/Buttons"
 import { Container, CardSet } from "../components/Sections"
 import Image from "../components/Image"
-import mobile from "../../public/img/hero-image-mobile.png"
+import mobile from "../img/hero-image-mobile.png"
 import debounce from 'lodash/debounce';
 
 const IndexPageTemplate = ({
