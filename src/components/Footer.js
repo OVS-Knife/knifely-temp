@@ -38,6 +38,13 @@ const Footer = () => {
                 >
                   Company
                 </Link>
+                <Link
+                  to="https://www.ovsknife.com/home"
+                  className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
+                  target="_blank"
+                >
+                  Parent Company
+                </Link>
               </div>
 
               <div>
