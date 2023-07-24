@@ -16,7 +16,7 @@ office:
     981 Home Ave.\
     Akron
   phone: |-
-    Email: info@ovsknife.com\
+    Email: info@knifely.com\
     Phone: (330) 617-5125\
     Monday to Friday 8-3:30pm EST.
   image: /img/lance-anderson-vwwzooyfchc-unsplash.jpg
