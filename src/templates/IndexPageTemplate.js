@@ -19,18 +19,12 @@ const IndexPageTemplate = ({
   
   useEffect(() => {
     const updateImageAndScreenSize = debounce(() => {  
-      // Update the image
-      if (window.innerWidth <= 942) {  
-        setCurrentImage(mobile);
-      } else {
-        setCurrentImage(image);
-      }
-      
       // Check for screen size
       if (window.innerWidth <= 762) {
         setIsSmallScreen(true);
       } else {
         setIsSmallScreen(false);
+        setCurrentImage(image);
       }
     }, 200);  
 
@@ -77,11 +71,13 @@ const IndexPageTemplate = ({
         </div>
 
         <div className="lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2">
-          <Image
-            className="h-48 w-full object-cover sm:h-64 md:h-80 lg:w-full lg:h-full"
-            image={currentImage}
-            alt="Knife Sharpening"
-          />
+          {!isSmallScreen && (
+            <Image
+              className="h-48 w-full object-cover sm:h-64 md:h-80 lg:w-full lg:h-full"
+              image={currentImage}
+              alt="Knife Sharpening"
+            />
+          )}
         </div>
       </div>
 
