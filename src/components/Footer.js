@@ -100,10 +100,10 @@ const Footer = () => {
                   Contact
                 </h3>
                 <span className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">
-                  (330) 617-5125
+                  <a href="tel:(330) 617-5125">(330) 617-5125</a>
                 </span>
                 <span className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">
-                  info@knifely.com
+                  <a href="mailto:info@knifely.com">info@knifely.com</a>
                 </span>
               </div>
             </div>
