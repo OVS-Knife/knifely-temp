@@ -5,7 +5,7 @@ module.exports = {
   siteMetadata: {
     title: "Knifely",
     description:
-      "Looking for a reliable and professional residential knife sharpening service in Akron? Look no further than Knifely!",
+      "Welcome To Knifely Nobody likes cutting with a dull knife. Not only does it not get the job done the way you want it to, but it can also be dangerous. While there are methods to help you sharpen your knives at home, nothing beats having your knives sharpened by a professional. At Knifely, we…",
     siteUrl: "https://www.knifely.com/",
   },
   plugins: [
