@@ -4,7 +4,7 @@ import { Helmet } from "react-helmet"
 function MyHelmet({ title, description }) {
   return (
     <Helmet>
-      {title ? <title>{title} | Knifely</title> : null}
+      {title ? <title>{title} | Kitchen Knife Sharpening Service</title> : null}
       {description ? <meta name="description" content={description} /> : null}
     </Helmet>
   )
