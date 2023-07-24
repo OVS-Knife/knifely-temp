@@ -1,6 +1,7 @@
 import CMS from 'netlify-cms-app'
 
 import IndexPagePreview from './preview-templates/IndexPagePreview'
+import FAQPagePreview from './preview-templates/FAQPagePreview'
 import ProjectsPagePreview from './preview-templates/ProjectsPagePreview'
 import ProjectPagePreview from './preview-templates/ProjectPagePreview'
 import AboutPagePreview from './preview-templates/AboutPagePreview'
@@ -11,3 +12,4 @@ CMS.registerPreviewTemplate('projects-index', ProjectsPagePreview)
 CMS.registerPreviewTemplate('projects', ProjectPagePreview)
 CMS.registerPreviewTemplate('about', AboutPagePreview)
 CMS.registerPreviewTemplate('contact', ContactPagePreview)
+CMS.registerPreviewTemplate('faq', FAQPagePreview)
