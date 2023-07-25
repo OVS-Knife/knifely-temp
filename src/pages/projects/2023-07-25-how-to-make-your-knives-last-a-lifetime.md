@@ -1,11 +1,11 @@
 ---
 templateKey: project-page
 title: HOW TO MAKE YOUR KNIVES LAST A LIFETIME
-date: 2023-07-20T13:12:52.012Z
+date: 2023-07-25T16:19:13.976Z
 featured: true
 featuredimage:
-  alt: Sharp Knives
-  image: /img/lifetime.jpeg
+  image: /img/m35099-how-mail-in-knife-sharpening-works-hero-image-700x365.jpg
+  alt: How to make your knives last a lifetime
 location: Akron, Ohio
 ---
 It’s no secret that Knifely is the go-to source for industrial knives. We offer some of the best CNC knives on the market, and our products are known for their quality and durability. But even with the best knives, there are a few things you can do to make them last a lifetime. In this blog post, we will discuss some tips and tricks for keeping your knives in top condition!

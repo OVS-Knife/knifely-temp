@@ -1,11 +1,11 @@
 ---
 templateKey: project-page
 title: 4 BENEFITS TO GETTING YOUR KNIVES SHARPENED
-date: 2023-07-20T13:46:07.687Z
+date: 2023-07-25T16:20:48.051Z
 featured: true
 featuredimage:
-  alt: Knife Sharpening
   image: /img/dreamstime_xxl_4369497-700x467.jpg
+  alt: Benefits of getting your knives sharpened
 location: Akron, Ohio
 ---
 There are many benefits to getting your knives sharpened. In fact, knife sharpening is one of the most important steps you can take to ensure the longevity of your knives. Dull knives are more dangerous than sharp ones because they require more force to use, and they can easily slip and cause an injury. Here are four benefits of getting your knives professionally sharpened.
