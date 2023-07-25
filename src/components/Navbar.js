@@ -112,7 +112,7 @@ const Navbar = ({ className }) => {
                 setMenuOpen(false)
               }}
             >
-              Blog
+              Info
             </PartialNavLink>
             <ExactNavLink
               to="/contact"

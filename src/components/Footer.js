@@ -55,7 +55,7 @@ const Footer = () => {
 
               <div>
                 <h3 className="text-gray-700 uppercase dark:text-white">
-                  Blog
+                  Info
                 </h3>
                 <Link
                   to="/projects/2021-07-27-rooftop-gardens-with-view-of-syndey-skyline-1/"
