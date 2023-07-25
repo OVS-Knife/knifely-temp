@@ -8,6 +8,46 @@ team:
     title: TEst
     image: /img/brooke-cagle-norsyxmhgpi-unsplash-1-.jpg
 ---
+<style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        h2 {
+            text-align: left;
+            color: #333;
+            border-bottom: 2px solid #e0e0e0;
+            padding-bottom: 10px;
+            margin-top: 40px;
+        }
+
+        h2:first-child {
+            margin-top: 0;
+        }
+
+        p {
+            margin-bottom: 30px;
+            color: #555;
+            line-height: 1.6;
+            font-size: 16px;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 20px 0;
+            border-radius: 10px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+        }
+
+        .signature {
+            font-style: italic;
+            text-align: right;
+            color: #888;
+        }
+</style>
+
 ## **Who We Are**
 
 Knifely are more than just knife sharpening services. We are champions of sustainability, excellence, and camaraderie. Founded on the principle of extending the life of your valuable tools, we are committed to saving businesses and consumers from the recurring costs of buying new products. Our mission goes beyond sharpening; it's about preserving the value of investments and fostering a culture of care and respect.
