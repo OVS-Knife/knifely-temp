@@ -82,13 +82,13 @@ const Footer = () => {
                   Products
                 </h3>
                 <a
-                  href="/"
+                  href="/projects/2023-07-25-pricing/"
                   className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
                 >
                   Pricing
                 </a>
                 <a
-                  href="/"
+                  href="/projects/2023-07-25-pricing/"
                   className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
                 >
                   Packages
