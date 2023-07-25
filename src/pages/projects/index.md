@@ -1,6 +1,6 @@
 ---
 templateKey: projects-page
-title: Blog
-heading: Knifely Blog
+title: Info
+heading: Learn More
 subheading: Find more information on Knifely below
 ---
