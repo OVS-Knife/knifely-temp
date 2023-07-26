@@ -91,7 +91,13 @@ const Footer = () => {
                   href="/projects/2023-07-25-pricing/"
                   className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
                 >
-                  Packages
+                  Knife Sharpening
+                <a
+                  href="/projects/2023-07-26-knife-sharpening/"
+                  className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
+                >
+                  Knife Repair
+                </a>
                 </a>
               </div>
 
@@ -104,6 +110,9 @@ const Footer = () => {
                 </span>
                 <span className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">
                   <a href="mailto:info@knifely.com">info@knifely.com</a>
+                </span>
+                <span className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">
+                  <a href="/contact">Message Us!</a>
                 </span>
               </div>
             </div>
