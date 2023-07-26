@@ -32,6 +32,16 @@ Making a meal with dull knives isn't just challenging – it's dangerous. Introd
 
 ---
 
+## **Our Sharpening Process**
+
+1. **DROP OFF** 
+    - Visit us and drop off your knives.
+2. **SHARPEN**
+    - Relax as our experts restore the sharpness of your knives.
+3. **PICK UP**
+    - Return to collect your transformed knives, ready for action!
+
+---
 ## **About Knifely**
 
 Purchasing knives is an investment, especially if you opt for high-quality ones, which can last a long time with the right care. Still, even the best-maintained knives will eventually dull without professional attention. We at Knifely understand the value and importance of your knives. They're not just tools; they're investments and kitchen essentials. Our mission was born from this understanding—to safeguard your investment and save you the cost of unnecessary replacements.
@@ -41,17 +51,6 @@ However, we also acknowledge that sometimes knives have gone beyond the point of
 Our core philosophy at Knifely is simple: Equip everyone with sharp knives without the need for constant replacements. Beyond that, we're about people—building a team that loves what they do, takes pride in their craft, and finds joy in restoring every blade that comes our way.
 
 Is your cutlery collection looking a little worn out? Let Knifely give it a new edge. Dive deeper into our services on our website, and when you're convinced, get in touch!
-
----
-
-## **Our Sharpening Process**
-
-1. **DROP OFF** 
-    - Visit us and drop off your knives.
-2. **SHARPEN**
-    - Relax as our experts restore the sharpness of your knives.
-3. **PICK UP**
-    - Return to collect your transformed knives, ready for action!
 
 ---
 
