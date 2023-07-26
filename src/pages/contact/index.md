@@ -2,7 +2,7 @@
 templateKey: contact-page
 title: Contact
 heading: Contact us
-subheading: Visit us in our offices or simply drop us a message
+subheading: Visit at our shop or simply drop us a message
 contactform:
   heading: Let's work together!
   description: We'd love to hear from you. Send us a message using the form below,
