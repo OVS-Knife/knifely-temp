@@ -29,7 +29,7 @@ team:
             margin-bottom: 30px;
             color: #555;
             line-height: 1.6;
-            font-size: 16px;
+            font-size: 19px;
         }
 
         img {
