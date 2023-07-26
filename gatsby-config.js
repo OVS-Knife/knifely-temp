@@ -5,7 +5,7 @@ module.exports = {
   siteMetadata: {
     title: "Knifely",
     description:
-      "Welcome To Knifely Nobody likes cutting with a dull knife. Not only does it not get the job done the way you want it to, but it can also be dangerous. While there are methods to help you sharpen your knives at home, nothing beats having your knives sharpened by a professional. At Knifely, we…",
+      "Discover Knifely: The premier destination for professional knife sharpening. Elevate your culinary experience with precision-sharpened knives. Trusted by both seasoned chefs and passionate home cooks. Experience the safety, efficiency, and performance of professionally sharpened blades. Visit Knifely today.",
     siteUrl: "https://www.knifely.com/",
   },
   plugins: [
