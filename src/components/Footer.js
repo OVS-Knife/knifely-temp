@@ -88,16 +88,16 @@ const Footer = () => {
                   Pricing
                 </a>
                 <a
-                  href="/projects/2023-07-25-pricing/"
-                  className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
-                >
-                  Knife Sharpening
-                <a
                   href="/projects/2023-07-26-knife-sharpening/"
                   className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
                 >
-                  Knife Repair
+                  Knife Sharpening
                 </a>
+                <a
+                  href="/projects/2023-07-25-knife-repair/"
+                  className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
+                >
+                  Knife Repair
                 </a>
               </div>
 
