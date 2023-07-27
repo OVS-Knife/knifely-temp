@@ -1,6 +1,6 @@
 ---
 templateKey: project-page
-title: 4 BENEFITS TO GETTING YOUR KNIVES SHARPENED
+title: 4 Benefits to Getting Your Knives Sharpened
 date: 2023-07-25T16:20:48.051Z
 featured: true
 featuredimage:

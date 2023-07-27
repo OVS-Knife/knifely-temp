@@ -1,6 +1,6 @@
 ---
 templateKey: project-page
-title: HOW OUR KNIFE SHARPENING WORKS
+title: How Our Knife Sharpening Works
 date: 2023-07-25T16:22:21.177Z
 featured: true
 featuredimage:

@@ -1,6 +1,6 @@
 ---
 templateKey: project-page
-title: HOW TO MAKE YOUR KNIVES LAST A LIFETIME
+title: How to Make Your Knives Last a Lifetime
 date: 2023-07-25T16:19:13.976Z
 featured: true
 featuredimage:
