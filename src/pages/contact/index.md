@@ -12,7 +12,7 @@ office:
   tagline: Our Office
   location: Akron Ohio
   address: |-
-    981 Home Ave,\
+    981 Home Ave Suite 2,\
     Akron Ohio, 44310\
     United States
   phone: |-
