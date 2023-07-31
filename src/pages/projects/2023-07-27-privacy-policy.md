@@ -4,7 +4,7 @@ title: Privacy Policy
 date: 2023-07-18T15:26:47.247Z
 featured: false
 featuredimage:
-  image: /img/scott-graham-oqmzwnd3thu-unsplash-1-1-.jpg
+  image: /img/dan-nelson-ah-heguoe9k-unsplash-1-.jpg
   alt: Privacy Policy
 location: Ohio
 ---
