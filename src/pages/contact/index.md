@@ -7,7 +7,7 @@ contactform:
   heading: Let's work together!
   description: We'd love to hear from you. Send us a message using the form below,
     or email us.
-  image: /img/copernico-p_kicqcom4s-unsplash-1-.jpg
+  image: /img/benjamin-lehman-seylfudll-k-unsplash-1-.jpg
 office:
   tagline: Our Office
   location: Akron Ohio
