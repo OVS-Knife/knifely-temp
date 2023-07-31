@@ -1,10 +1,10 @@
 ---
 templateKey: project-page
 title: Terms & Conditions
-date: 2023-07-27T15:29:56.805Z
+date: 2023-07-18T15:29:56.805Z
 featured: false
 featuredimage:
-  image: /img/brooke-cagle-norsyxmhgpi-unsplash-1-.jpg
+  image: /img/markus-winkler-ttj0cljli6w-unsplash-1-.jpg
   alt: Terms & Conditions
 location: Ohio
 ---

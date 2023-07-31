@@ -4,7 +4,7 @@ title: Privacy Policy
 date: 2023-07-18T15:26:47.247Z
 featured: false
 featuredimage:
-  image: /img/ricardo-gomez-angel-opfpvxmrpp8-unsplash.jpg
+  image: /img/scott-graham-oqmzwnd3thu-unsplash-1-1-.jpg
   alt: Privacy Policy
 location: Ohio
 ---
