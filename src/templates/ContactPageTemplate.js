@@ -97,6 +97,11 @@ function ContactPageTemplate({
                   autoComplete="email"
                   className="mt-1 focus:ring-green-500 focus:border-green-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                 />
+                <Input
+                  type="hidden"
+                  name="site_name"
+                  value="knifely.com"
+                ></Input>
               </div>
 
               <div className="col-span-6 sm:col-span-3">
