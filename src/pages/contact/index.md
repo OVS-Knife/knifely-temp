@@ -17,7 +17,6 @@ office:
     United States
   phone: |-
     Email: info@knifely.com\
-    Phone: (330) 617-8555\
     Mon - Fri, 8:00 am - 3:00 pm EST
   image: /img/lance-anderson-vwwzooyfchc-unsplash.jpg
 ---
