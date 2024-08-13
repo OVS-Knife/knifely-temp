@@ -9,8 +9,9 @@ contactform:
     or email us.
   image: /img/matthew-bornhorst-lbmrk7wfm_o-unsplash-1-.jpg
 office:
-  tagline: Our Office
-  location: Akron Ohio
+  tagline: Office
+  location: Ohio
+  address: |-
   phone: |-
     Email: info@knifely.com\
   image: /img/lance-anderson-vwwzooyfchc-unsplash.jpg
