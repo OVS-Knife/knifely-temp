@@ -11,12 +11,7 @@ contactform:
 office:
   tagline: Our Office
   location: Akron Ohio
-  address: |-
-    981 Home Ave Suite 2,\
-    Akron Ohio, 44310\
-    United States
   phone: |-
     Email: info@knifely.com\
-    Mon - Fri, 8:00 am - 3:00 pm EST
   image: /img/lance-anderson-vwwzooyfchc-unsplash.jpg
 ---
